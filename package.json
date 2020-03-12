@@ -1,0 +1,12 @@
+{
+  "id": "redditchat",
+  "name": "Reddit Chat",
+  "version": "1.0.0",
+  "description": "Reddit Chat",
+  "main": "index.js",
+  "author": "Jan Scheiper <jan@janscheiper.de>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.reddit.com/chat/"
+  }
+}
